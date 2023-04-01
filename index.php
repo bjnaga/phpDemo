@@ -3,7 +3,7 @@
 $connect = mysqli_connect(
     'db', # service name
     'php_docker', # username
-    'password', # password
+    'pass', # password
     'php_docker' # db table
 );
 
